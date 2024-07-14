@@ -21,7 +21,7 @@ A lightweight and powerful text editor designed for simplicity and efficiency.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/TextEditor.git
+git clone https://github.com/JamieThompson101/TextEditor.git
 cd TextEditor
 ```
 
@@ -59,7 +59,7 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 ### Reporting Issues
 
-If you find a bug or have a feature request, please open an [issue](https://github.com/yourusername/TextEditor/issues).
+If you find a bug or have a feature request, please open an [issue](https://github.com/JamieThompson101/TextEditor/issues).
 
 ## License
 
